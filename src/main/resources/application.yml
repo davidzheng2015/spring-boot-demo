@@ -15,12 +15,12 @@ spring:
    # password: gdky2016
 
 server:
-  port: 8080
+  port: 8888
 
 endpoints:
   shutdown:
     enabled: true
-    
+
 #todo: make sure to always enable security in production
 security:
   basic:
